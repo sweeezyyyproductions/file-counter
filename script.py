@@ -22,7 +22,6 @@ def rename_files():
 
     result_label.config(text="Files renamed successfully!")
 
-# Create the GUI
 window = tk.Tk()
 window.title("File Renamer-CreationDate")
 window.geometry("400x150")
